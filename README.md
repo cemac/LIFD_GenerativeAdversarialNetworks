@@ -12,7 +12,7 @@
 [![GitHub release](https://img.shields.io/github/release/cemac/LIFD_GenerativeAdversarialNetworks.svg)](https://github.com/cemac/LIFD_GenerativeAdversarialNetworks/releases) [![GitHub top language](https://img.shields.io/github/languages/top/cemac/LIFD_GenerativeAdversarialNetworks.svg)](https://github.com/cemac/LIFD_GenerativeAdversarialNetworks) [![GitHub issues](https://img.shields.io/github/issues/cemac/LIFD_GenerativeAdversarialNetworks.svg)](https://github.com/cemac/LIFD_GenerativeAdversarialNetworks/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/cemac/LIFD_GenerativeAdversarialNetworks.svg)](https://github.com/cemac/LIFD_GenerativeAdversarialNetworks/commits/master) [![GitHub All Releases](https://img.shields.io/github/downloads/cemac/LIFD_GenerativeAdversarialNetworks/total.svg)](https://github.com/cemac/LIFD_GenerativeAdversarialNetworks/releases) ![GitHub](https://img.shields.io/github/license/cemac/LIFD_GenerativeAdversarialNetworks.svg)[![DOI](https://zenodo.org/badge/366734586.svg)](https://zenodo.org/badge/latestdoi/366734586)
 
 [![LIFD_ENV_ML_NOTEBOOKS](https://github.com/cemac/LIFD_GenerativeAdversarialNetworks/actions/workflows/python-package-conda-GAN.yml/badge.svg)](https://github.com/cemac/LIFD_GenerativeAdversarialNetworks/actions/workflows/python-package-conda-GAN.yml)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cemac/LIFD_GenerativeAdversarialNetworks/HEAD?labpath=GenerativeAdversarialNetworks.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cemac/LIFD_GenerativeAdversarialNetworks/HEAD?labpath=GANS.ipynb)
 
 This notebook explores Random Forests to find out what variables control leaf temperature
 
