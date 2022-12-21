@@ -9,4 +9,4 @@ dependencies:
   - matplotlib
   - notebook
   - torchvision
-  - nomkl
+  
