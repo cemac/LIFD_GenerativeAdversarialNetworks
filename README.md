@@ -20,7 +20,7 @@ This notebook explores Random Forests to find out what variables control leaf te
 
 ## Quick look
 
-If you want a quick look at the contents inside the notebook before deciding to run it please view the [md file](https://github.com/cemac/LIFD_GenerativeAdversarialNetworks/blob/main/GenerativeAdversarialNetworks.md) generated (*note some HTML code not fully rendered*)
+If you want a quick look at the contents inside the notebook before deciding to run it please view the [md file](https://github.com/cemac/LIFD_GenerativeAdversarialNetworks/blob/main/GANS.md) generated (*note some HTML code not fully rendered*)
 
 
 ### Quick start
@@ -36,8 +36,8 @@ If you're already familiar with git, anaconda and virtual environments the envir
 ```bash
 git clone git@github.com:cemac/LIFD_GenerativeAdversarialNetworks.git
 cd LIFD_GenerativeAdversarialNetworks
-conda env create -f GAN.yml
-conda activate GAN
+conda env create -f GANS.yml
+conda activate GANS
 jupyter-notebook
 ```
 
