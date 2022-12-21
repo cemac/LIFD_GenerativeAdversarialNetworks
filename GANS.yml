@@ -1,0 +1,9 @@
+name: GANS
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - PyTorch
+  - matplotlib
+  - notebook
