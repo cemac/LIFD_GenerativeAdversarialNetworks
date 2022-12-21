@@ -5,8 +5,7 @@ channels:
   - pytorch
 dependencies:
   - python=3.8
-  - PyTorch
+  - PyTorch==1.11
   - matplotlib
   - notebook
   - torchvision
-  
