@@ -13,8 +13,8 @@
 
 [![LIFD_ENV_ML_NOTEBOOKS](https://github.com/cemac/LIFD_GenerativeAdversarialNetworks/actions/workflows/python-package-conda-GAN.yml/badge.svg)](https://github.com/cemac/LIFD_GenerativeAdversarialNetworks/actions/workflows/python-package-conda-GAN.yml)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cemac/LIFD_GenerativeAdversarialNetworks/HEAD?labpath=GANS.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cemac/LIFD_GenerativeAdversarialNetworks/blob/main/GANS_colab.ipynb)
 
-This notebook explores Random Forests to find out what variables control leaf temperature
 
 ## Recommended Background Reading
 
@@ -25,9 +25,18 @@ If you want a quick look at the contents inside the notebook before deciding to 
 
 ### Quick start
 
+**Google CoLab**
+
+Google allows you 1 free GPU and this tutorial will run in less than an hour on googles sytem. Please save a copy in your google drive if you would like to save your work and model weights.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cemac/LIFD_GenerativeAdversarialNetworks/blob/main/GANS_colab.ipynb)
+
+
 **Binder**
 
-You can run this notebook on your personal laptop or via the [binder](https://mybinder.readthedocs.io/en/latest/index.html#what-is-binder) link above (please allow a few minutes for set up).
+You can run this notebook on [binder](https://mybinder.readthedocs.io/en/latest/index.html#what-is-binder) link above (please allow a few minutes for set up), using saved model weights on free CPUS. 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cemac/LIFD_GenerativeAdversarialNetworks/HEAD?labpath=GANS.ipynb)
 
 **Running Locally**
 
